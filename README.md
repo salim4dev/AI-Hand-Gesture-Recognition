@@ -1,4 +1,4 @@
-# 🤖 Hand Gesture Recognition with MediaPipe & OpenCV
+# Hand Gesture Recognition with MediaPipe & OpenCV
 
 ## 📘 Description
 
@@ -42,4 +42,5 @@ pip install opencv-python mediapipe numpy math
 
 ## 📚 Crédits
 Ce projet est une adaptation/modification du code original de [vir727](https://github.com/vir727/Gesture-Recogonition-App).
+
 
