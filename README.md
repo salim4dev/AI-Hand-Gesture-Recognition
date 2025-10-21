@@ -36,11 +36,12 @@ pip install opencv-python mediapipe numpy math
 ```
 
 ## Examples
-![open](c1.png)
-![good](c2.png)
-![bad](c3.png)
+![open](c1.PNG)
+![good](c2.PNG)
+![bad](c3.PNG)
 
 ## 📚 Crédits
 Ce projet est une adaptation/modification du code original de [vir727](https://github.com/vir727/Gesture-Recogonition-App).
+
 
 
